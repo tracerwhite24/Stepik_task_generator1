@@ -24,4 +24,10 @@
 
 Решение: https://github.com/tracerwhite24/Stepik_task_generator1/blob/main/fizzbuzz.py
 
+Задача:
+
+ ✔ Создайте функцию генератор четных чисел от 0 до n.
+
+ Решение:
+
 

@@ -34,6 +34,6 @@
 
  ✔ Создайте функцию генератор чисел Фибоначчи
 
- Решение: 
+ Решение: https://github.com/tracerwhite24/Stepik_task_generator1/blob/main/fibonacci.py
 
 

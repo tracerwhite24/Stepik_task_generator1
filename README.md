@@ -22,4 +22,6 @@
 
 ✔ *Превратите решение в генераторное выражение.
 
+Решение: https://github.com/tracerwhite24/Stepik_task_generator1/blob/main/fizzbuzz.py
+
 

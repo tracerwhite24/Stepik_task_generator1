@@ -28,6 +28,6 @@
 
  ✔ Создайте функцию генератор четных чисел от 0 до n.
 
- Решение:
+ Решение: https://github.com/tracerwhite24/Stepik_task_generator1/blob/main/genny_even.py
 
 

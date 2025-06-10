@@ -30,4 +30,10 @@
 
  Решение: https://github.com/tracerwhite24/Stepik_task_generator1/blob/main/genny_even.py
 
+ Задача:
+
+ ✔ Создайте функцию генератор чисел Фибоначчи
+
+ Решение: 
+
 
